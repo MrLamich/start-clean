@@ -1,3 +1,8 @@
+<?php 
+include ("app/controllers/users.php");
+// include ("path.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -51,11 +56,11 @@
  <div class="form_reg_block">
     <div class="form_reg_block_content">
       <p class="form_reg_block_head_text">Регистрация</p>
-      <form class="form_reg_style" action="#" method="post">
+      <form class="form_reg_style" action="register.php" method="post">
         <label>Логин</label>
-        <input type="login" name="reg_login" placeholder="Логин" required >
+        <input type="login" name="login" placeholder="Логин" required >
         <label>Пароль</label>
-        <input type="password" name="reg_email placeholder="Пароль" required >
+        <input type="password" name="reg_pass" placeholder="Пароль" required >
         <label>Email</label>
         <input type="email" name="reg_email" placeholder="email" required >
         <button class="form_reg_button" type="submit" name="form_reg_submit">Зарегистрироваться</button>
