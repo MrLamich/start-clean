@@ -1,0 +1,152 @@
+.form_auth_block{
+    width: 500px;
+    height: 400px;
+    margin: 0 auto;
+    background-size: cover;
+    border-radius: 40px;
+    margin-top: 40px;
+    background-color: #BC8650;
+}
+
+.form_reg_block{
+  width: 500px;
+    height: 500px;
+    margin: 0 auto;
+    background-size: cover;
+    border-radius: 40px;
+    margin-top: 40px;
+    background-color: #BC8650;
+}
+.form_auth_block_content{
+  padding-top: 10%;
+
+}
+.form_auth_block_head_text{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+    background: #ffffff;
+    opacity: 0.7;
+    max-width: 400px;
+    margin-left: 50px;
+}
+.form_auth_block label{
+    display: block;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50px;
+    background: #ffffff;
+    opacity: 0.7;
+    max-width: 400px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.form_auth_block input{
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  height: 45px;
+  border-radius: 10px;  
+  border:none;
+  outline: none;
+}
+input:focus {
+  color: #000000;
+  border-radius: 10px;
+  border: 2px solid #436fea;
+}
+.form_auth_button{
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 35px;
+    border: none;
+    cursor: pointer;
+}
+
+.form_auth_block{
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+  background-size: cover;
+  border-radius: 40px;
+  margin-top: 40px;
+  background-color: #BC8650;
+}
+
+.form_reg_block{
+width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  background-size: cover;
+  border-radius: 40px;
+  margin-top: 40px;
+  background-color: #BC8650;
+}
+.form_reg_block_content{
+padding-top: 10%;
+
+}
+.form_reg_block_head_text{
+  display: block;
+  text-align: center;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 600;
+  background: #ffffff;
+  opacity: 0.7;
+  max-width: 400px;
+  margin-left: 50px;
+}
+.form_reg_block label{
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin-left: 50px;
+  background: #ffffff;
+  opacity: 0.7;
+  max-width: 400px;
+  font-weight: 600;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.form_reg_block input{
+display: block;
+margin: 0 auto;
+width: 80%;
+height: 45px;
+border-radius: 10px;  
+border:none;
+outline: none;
+}
+input:focus {
+color: #000000;
+border-radius: 10px;
+border: 2px solid #436fea;
+}
+.form_reg_button{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  height: 35px;
+  border: none;
+  cursor: pointer;
+
+}
+.form_reg_link{
+padding-left: 200px;
+display: block;
+padding-top: 20px;
+}
+.form_auth_link{
+padding-left: 200px;
+display: block;
+padding-top: 20px;
+}
